@@ -1,9 +1,9 @@
-#grunt-ngmin
+#grunt-ngmin-concat
 
 Grunt plugin for pre-minifying Angular apps. Learn why this is awesome by reading up on the [ngmin](https://github.com/btford/ngmin) cli tool.
 
 ## Getting Started
-This plugin requires Grunt `~0.4.0`
+This plugin requires Grunt `~0.4.1`
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
